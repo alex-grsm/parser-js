@@ -32,5 +32,3 @@ window.addEventListener('DOMContentLoaded', () => {
     .then(json => console.log(json));
     
 });
-
-console.dir($0);
