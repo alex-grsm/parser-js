@@ -1,4 +1,4 @@
 # parser-js
 Simple parser-js
 
-console.dir($0);
+<strong>console.dir($0);</strong>
